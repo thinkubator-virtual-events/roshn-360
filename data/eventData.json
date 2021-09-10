@@ -1,0 +1,22 @@
+{
+    "name": "Roshan 360",
+    "panos": [{
+            "id": "1",
+            "name": "Dubai Sports",
+            "image": "media/images/panorama/dubai.jpg",
+            "pan": -91,
+            "tilt": "15",
+            "zoom": 2,
+            "cameraFree": true
+        },
+        {
+            "id": 1630744621098,
+            "name": "DFC",
+            "image": "media/images/panorama/dfc.jpg",
+            "pan": "97",
+            "tilt": "0",
+            "zoom": 0,
+            "cameraFree": true
+        }
+    ]
+}
